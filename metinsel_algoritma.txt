@@ -1,0 +1,9 @@
+Amaç: Birbirinden farklı iki sayıdan hangisinin büyük olduğunu ekrana yazılması
+
+
+Step1: Başla
+Step2: Birinci sayıyı Giriniz, Sayı1
+Step3: ikinci sayıyı giriniz, Sayı2
+Step4: Eğer Sayı1 > Sayı2 ise Ekrana Sayı1 Yaz
+Step5: Değil ise Ekrana Sayı2 yaz
+Step6: Bitir.
